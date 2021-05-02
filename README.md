@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Terry
-- 🌱 I’m currently a high school student exploring CS
+- 🌱 I’m a high school student currently exploring CS
 
 
 <!---
