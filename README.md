@@ -11,9 +11,10 @@
 <div align="left">
 
 🥳 Yay! You have finally discovered my Github profile! <br><br>
-🌱 Within my repos you will find a bit of everything; some of my personal projets (e.g web-development, discord bots, machine learning...) , LeetCode problems that I enjoy trying from time to time, some CCC contest solutions, and other programs that I've worked on! <br><br>
+🌱 Within my repos you will find a bit of everything; some of my personal projets (e.g web-development, discord bots, machine learning...) , LeetCode problems that I enjoy trying from time to time, some CCC contest solutions, and other cool programs that I've worked on! <br><br>
 👍 Please feel free to clone/fork my code, raise issues and submit PRs if you think something could be better. <br><br>
-❓ Ask me anything via <a href="limacechan2169@gmail.com"><u><b>email!</b></u></a>
+❓ Ask me anything via <a href="limacechan2169@gmail.com"><u><b>email!</b></u></a><br><br>
+🧑 Check out my personal website <a href="https://terrysu64.github.io/Terry-Su-Personal-Website/"><u><b>here!</b></u></a><br><br>
 
 </div>
 
