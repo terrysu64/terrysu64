@@ -8,9 +8,9 @@
 
 </div>
 
-<div align="left", style={font-size:1px}>
+<div align="left">
 
-🥳 You have finally discovered my Github profile. <br>
+🥳 You have finally discovered my Github profile. <br><br>
 🌱 Within my repos you will find some of my personal projets (e.g web-development, discord bots, machine learning...) , LeetCode problems that I enjoy trying from time to time, some CCC contest solutions, and other programs that I've worked on! <br>
 👍 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 ❓ Ask me anything via <a href="limacechan2169@gmail.com"><u><b>email!</b></u></a>
