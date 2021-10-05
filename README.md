@@ -8,7 +8,7 @@
 
 </div>
 
-<div align="left">
+<div align="left", style={font-size:1px}>
 
 🥳 You have finally discovered my Github profile. <br>
 🌱 Within my repos you will find some of my personal projets (e.g web-development, discord bots, machine learning...) , LeetCode problems that I enjoy trying from time to time, some CCC contest solutions, and other programs that I've worked on! <br>
