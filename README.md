@@ -1,12 +1,16 @@
 <div align="center">
+ 
+<!-- Title -->
+  
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="Welcome!" width="250"/> 👈 debugging be like
-
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" alt="Welcome!" width="250"/> 
 </div><br>
+
+<!-- Info -->
 
 <div align="left">
 
@@ -19,13 +23,12 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=terrysu64&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="terrysu64's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=terrysu64&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="terrysu64's Github Stats"></br></br>
 
-</br>
-</br>
 <i>Here's a random dev joke for you. Hope it makes your day just a little better 😁👨‍💻</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+<!-- Skills -->
 ---
 
 <i>Some of my skills 🛠:</i><br>
@@ -42,6 +45,7 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"></a>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 
+<!-- Contacts -->
 ---
 
 <i>Find me around the web 🕵️‍♂️:</i><br>
