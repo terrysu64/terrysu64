@@ -16,7 +16,7 @@
 
 🥳 Hey, I'm Terry! You have finally discovered my Github profile! <br><br>
 🌱 Within my repos you will find quite a bit of everything; some of my personal projets (e.g web-development, discord bots, machine learning...) , LeetCode problems that I enjoy trying from time to time, some CCC contest solutions, and other cool programs that I've worked on! <br><br>
-👍 Please feel free to clone/fork my code, raise issues, and submit PRs. Feedback is always welcome! <br><br>
+👍 Please feel free to fork my code, raise issues, and/or submit PRs. Feedback is always welcome! <br><br>
 🧑 Check out my personal website <a href="https://terrysu64.github.io/Terry-Su-Personal-Website/"><u><b>here!</b></u></a><br><br>
 
 </div>
