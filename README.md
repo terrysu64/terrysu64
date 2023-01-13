@@ -23,7 +23,9 @@
 
 <div align="center">
 
-<!-- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=terrysu64&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Github Stats"/> -->
+
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark">    <img  alt="terrysu64's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/terrysu64?cardType=level&theme=github-dark" />  </a>
+ 
 <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia" alt="Languages"/>
  </br></br>
 
