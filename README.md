@@ -77,5 +77,6 @@
 <a href="https://open.spotify.com/user/general_su?si=d148fc0d782b4b6f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://leetcode.com/terrysu64/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"></a>
 
+<img src="https://terryspotify.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350"/>
 
 </div>
