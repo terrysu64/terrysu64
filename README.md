@@ -77,11 +77,11 @@
 <a href="https://open.spotify.com/user/general_su?si=d148fc0d782b4b6f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://leetcode.com/terrysu64/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode"></a>
 
-
-
-&nbsp;<div>
+<!-- Spotify -->
+---
+&nbsp;
    <i>Now Playing on Spotify 🎧:</i><br><br>
   [![Spotify](https://terryspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=100px)](https://open.spotify.com/user/txrry_)
-</div>
+
 
 </div>
