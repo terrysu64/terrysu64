@@ -34,7 +34,7 @@
 <!-- Skills -->
 ---
 
-<i>Some of my skills 🛠:</i><br>
+<i>Some of my Skills 🛠:</i><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"></a>
@@ -70,7 +70,7 @@
 <!-- Contacts -->
 ---
 
-<i>Find me around the web 🕵️‍♂️:</i><br>
+<i>Find me Around the Web 🕵️‍♂️:</i><br>
 
 <a href="limacechan2169@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://ca.linkedin.com/in/terry-su-a51406218" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
