@@ -81,7 +81,7 @@
 ---
 &nbsp;
    <i>Now Playing on Spotify 🎧:</i><br><br>
-  [![Spotify](https://terryspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=100px)](https://open.spotify.com/user/general_su)
+  [![Nothing Currently Playing](https://terryspotify.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&width=100px)](https://open.spotify.com/user/general_su)
 
 
 </div>
