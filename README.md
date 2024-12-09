@@ -5,7 +5,6 @@
 <div align="center">
 
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark"><img height="160px" alt="terrysu64's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/terrysu64?cardType=level&theme=github-dark"/></a>
 <img height="160px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia" alt="Languages"/>
  </br></br>
 
